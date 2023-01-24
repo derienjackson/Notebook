@@ -1,4 +1,4 @@
-# NotesApp (CLI App)
+# Notebook (CLI App)
 <h2>Description</h2>
 A command line interface application for taking notes that utilizes crud operations to access note data. This application also includes error handling 
 for various scenarios.
